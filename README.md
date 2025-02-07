@@ -3,7 +3,7 @@
         <img src="https://github.com/YanisRUK/ArrowSphere-Data-Dashboard/blob/main/DT402LOGO.png" width="400" alt=""/>
     <br />
 </p>
-<p align="center"><strong style="font-size: 10vw;">EqiBuild</strong></p>
+<p align="center"><strong style="font-size: 10vw;">DT402A Microsoft Licensing Data Dashboard</strong></p>
 <p align="center"><strong style="font-size: 30px;">Decentralised Local Infrastructure Crowdfunding</strong></p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
     <a href="https://www.easya.io/">
