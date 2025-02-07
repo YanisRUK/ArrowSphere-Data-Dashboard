@@ -1,6 +1,6 @@
 <p align="center">
     <br />
-        <img src="https://github.com/swiifu/EqiBuild/blob/main/EQIBUILD.png" width="400" alt=""/>
+        <img src="https://github.com/YanisRUK/ArrowSphere-Data-Dashboard/blob/main/DT402LOGO.png" width="400" alt=""/>
     <br />
 </p>
 <p align="center"><strong style="font-size: 10vw;">EqiBuild</strong></p>
