@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>402 - Microsoft Licensing Data Dashboard</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+  <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+  <div class="container">
+    <h1>402 - Microsoft Licensing Data Dashboard</h1>
+    <div id="controls">
+      <label>
+        <input type="checkbox" id="chkMonthly" checked>
+        Monthly
+      </label>
+      <label>
+        <input type="checkbox" id="chkAnnual" checked>
+        Annual
+      </label>
+      <label>
+        <input type="checkbox" id="chkThreeYear" checked>
+        3-Year
+      </label>
+    </div>
+    <!-- Canvas for the dynamic chart -->
+    <canvas id="pricingChart" width="600" height="400"></canvas>
+  </div>
+  <!-- JavaScript file for dynamic chart -->  
+  <script src="{{ url_for('static', filename='js/script.js') }}"></script>
+</body>
+</html>
