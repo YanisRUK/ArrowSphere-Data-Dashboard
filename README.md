@@ -4,11 +4,9 @@
     <br />
 </p>
 <p align="center"><strong style="font-size: 10vw;">DT402A Microsoft Licensing Data Dashboard</strong></p>
-<p align="center"><strong style="font-size: 30px;">Decentralised Local Infrastructure Crowdfunding</strong></p>
+<p align="center"><strong style="font-size: 30px;">Dynamic Flask Data Dashboard</strong></p>
 <p align="center" style="display: flex; justify-content: center; align-items: center;">
-    <a href="https://www.easya.io/">
-        <img src="https://github.com/user-attachments/assets/09cfc307-f04f-4225-8c3b-bc96c47583a6" alt="EasyA" style="height: 21px;"/>
-    <span style="display: inline-flex; align-items: center; background-color: #1c1c1c; padding: 5px; border-radius: 6px;">
+    <a href="https://github.com/YanisRUK/ArrowSphere-Data-Dashboard/stargazers">
         <img src="https://img.shields.io/github/stars/jjjutla/melodot?style=social" alt="GitHub stars"/>
         <span style="margin: 0 10px; color: white; font-size: 14px;"></span>
         </a>
