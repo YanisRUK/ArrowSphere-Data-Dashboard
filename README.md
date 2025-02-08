@@ -38,7 +38,3 @@ ArrowSphere is a program that myself and others within Ricoh UK utilise for quot
 - [ ] Had to troubleshoot plenty of errors due to my incorrect file paths and project structure, etc
 - [ ] Attempted to develop a GitHub style heatmap and failed (terribly 😂)
 - [ ] Working on fixing the problems with the ArrowSphere API 
-
-
-## Contributing & License
-Help us make EqiBuild! This is an open-source software licensed under the [MIT License].
