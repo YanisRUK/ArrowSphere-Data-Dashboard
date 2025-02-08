@@ -15,32 +15,29 @@
 
 ---
 
-### What is EqiBuild?
-EqiBuild is meant to be a decentralised app focused on helping to simplify the way the government spends the tax payers' money. By using the app or website, people can fund projects that they believe actually benefit the community and their surrounding area using XLM. For example, if a local government had multiple projects but strict funding, like choosing between a new park for a specific area or improved roads, people could vote with their money and decide what gets built.
+### What is ArrowSphere?
+ArrowSphere is a program that myself and others within Ricoh UK utilise for quoting and ordering our Microsoft CSP Licensing; whether that's a Microsoft 365 E3 or just an add-in to a service you may already have (such as upgrading Entra ID P1 to P2), we do all Microsoft CSP related work, through this web app. 
 
-### Features
--**Micro-Contribution Support:** Leverage Stellar’s low transaction costs to facilitate small donations from individuals globally. It also allows users to contribute any amount, making it accessible for everyone.
+### Features of the Dashboard
+- The dashboard is consists of a dynamic bar chart which has been programmed using JavaScript, the colours with CSS, website layout with HTML, and so on. The dashboard does also have an API feature, however it is not functional and only there for demonstrative purposes. The dynamic piece of the dashboard is that you can alter the appearance of the bar chart by clicking through choice buttons, depending on what billing you would like on your licensing/ user. 
 
--**Smart Contract Integration:** Smart contracts are used to release funds based on project milestones, ensuring accountability and progress tracking. This also means it can automatically refund contributors if a project fails to meet its milestones or is abandoned.
+- The API is from ArrowSphere, and it's purpose was to pull the pricing of Microsoft licenses live from just the API connection to the website / data dashboard.
 
--**Project Tracking and Reporting:** Provide regular updates on project milestones, including images and reports on project status. This will also include project funding progress so people can see how close a project is to getting funding.
+### Development Roadmap
 
--**Partnerships and Collaborations:** Partnerships can be integrated with businesses that want to contribute to community projects, possibly in exchange for advertising or CSR benefits. This also applies for charities who can be funded or choose to fund community projects
-
-### Roadmap
-
-- [ ] Design token standards and metadata to represent infrastructure project contributions on Stellar
-- [ ] Create a tiered crowdfunding structure using Stellar smart contracts to release funds upon milestone completion
-- [ ] Connect the frontend with Stellar’s blockchain for low-fee micro-contributions and real-time transaction confirmation
-- [ ] Allow token holders to vote on project priorities and fund distribution using Stellar smart contracts
-- [ ] Use smart contracts to release funds only when project milestones are verified through community or system validation
-- [ ] Implement ERC-3643 token system where contributors receive tokenized rewards and perks for their participation
-- [ ] Develop a mobile and web dApp to facilitate global contributions with Stellar’s cost-efficient infrastructure
-- [ ] Use IPFS to store and make accessible project documentation, updates, and progress reports
-- [ ] Leverage Stellar’s Anchor system for easy fiat-to-crypto conversions to enable global participation
-- [ ] Launch a beta version with select projects, gather feedback, and refine platform features
-- [ ] Implement AI to suggest projects based on community needs and previous funding success
-- [ ] Connect with government and NGO APIs to validate projects and access additional funding opportunities
+- [ ] Chose python with Flask for the backend and API functionality
+- [ ] Choce HTML, CSS, and JavaScript (with Chart.js) for the frontend 
+- [ ] Outlined the requirements for dynamic interactivity to work
+- [ ] Created a project structure (including folders for templates and static assets) 
+- [ ] Implement api/pricing to pull pricing data from ArrowSphere
+- [ ] Incorporated a dummy dataset for a fallback to ensure functionality during development or any failures
+- [ ] Developed a clean and consistent HTML structure + intergrated a permanent header at the top 
+- [ ] Added a canvas element for rendering the dynamic aspect of the chart
+- [ ] Embedded chart.js to display the bar chart
+- [ ] Created interactive checkboxes to allow users to select and compare multiple pricing options at the same time
+- [ ] Had to troubleshoot plenty of errors due to my incorrect file paths and project structure, etc
+- [ ] Attempted to develop a GitHub style heatmap and failed (terribly 😂)
+- [ ] Working on fixing the problems with the ArrowSphere API 
 
 
 ## Contributing & License
