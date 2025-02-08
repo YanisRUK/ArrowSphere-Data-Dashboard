@@ -51,3 +51,8 @@ I used this as a great practical resource for understanding how to build web app
 Performance Dashboards: Measuring, Monitoring, and Managing Your Business. Hoboken, NJ: John Wiley & Sons.
 Available at: https://www.wiley.com/en-us/Performance+Dashboards%3A+Measuring%2C+Monitoring%2C+and+Managing+Your+Business-p-9780470176574 (Accessed: 7 February 2025)
 Inspired my ideation to use Microsoft CSP licensing as the example for this web app.
+
+- **Soumil Shah (2019)**
+Dynamic Flask Data Dashboard Devleopment Creating charts with Chartist & Flask
+Available at: https://www.youtube.com/watch?v=hGSD2BZaVuU
+This series of videos provided me with more insight into how I could use dynamic features in my dashboard.
